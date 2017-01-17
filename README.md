@@ -5,7 +5,9 @@ NotesApp is a fun, colourful way to store and display notes when you need them.
 Open up the files and find your way to index.html - simply open in your browser!
 
 ##Analysis
-The brief was to create a frontend single-page JavaScript app without using existing web frameworks. We achieved the basis of our app very quickly, within a day or so, but had to spend time refactoring our code into an appropriate structure as the majority of code was in just one file. Time didn't allow us to go any further with the app so currently the notes are only stored until the page is refreshed - if we'd had more time, I would have liked to include a database in this project.
+The brief was to create a frontend single-page JavaScript app without using existing web frameworks. We achieved the basis of our app very quickly, within a day or so, but had to spend time refactoring our code into an appropriate file structure. Time didn't allow us to go any further with the app so currently the notes are only stored until the page is refreshed - if we'd had more time, I would have liked to include a database in this project.
+
+![screenshot3](https://cloud.githubusercontent.com/assets/17406621/22015169/d1c62706-dc98-11e6-88f6-4f5a992736e2.png)
 
 ##User stories
 As a programmer  
