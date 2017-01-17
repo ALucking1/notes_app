@@ -1,5 +1,5 @@
 ##NotesApp
-NotesApp is a fun, colourful way to store and display notes when you need them.
+NotesApp is a fun, easy way to store and display notes.
 
 ##Instructions
 Open up the files and find your way to index.html - simply open in your browser!
